@@ -1,0 +1,14 @@
+{
+  "name": "cats",
+  "version": "1.1.0",
+  "description": "Show random cats and sending into combined json",
+  "main": "cats.js",
+  "scripts": {
+    "test": "-"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
